@@ -41,3 +41,16 @@ body{
     padding: 1em;
 
 }
+
+#footer
+{
+    color: aliceblue;
+    width: 20%;
+    padding: 1em;
+    text-align: center;
+    border: 5px #fff;
+    border-radius: 50px;
+    margin: auto;
+    background-color: #33A;
+
+}
